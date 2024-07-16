@@ -1,6 +1,44 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Notes from Instructional video on how to access Links 
 
-Welcome USER_NAME,
+We're going to have a look at another client now: links.
+Links is a command-line based browser.
+I'll type in the name of the file there: links.
+So this just says to display the main menu, press escape.
+
+Then I'm going to press ENTER for file and ENTER again for "Go to URL".
+
+In this box, I'm going to type the URL that I want to visit, which is "www.google.com".
+
+Now that I'm here, I can't actually click on anything using my mouse.
+
+This is a complete command-line based browser.
+
+I'm going to have to use the up and down arrow keys to move through the links on the page
+and then press ENTER to select.
+
+So I'm going to go to the search bar here and type in GitHub, for example, then press
+the down arrow and do Google search.
+And now I get all my Google results relating to GitHub, which kind of just looks like a
+regular Google search result but without all the nice styling and graphics.
+
+What I want to do is go to GitHub.
+So I'll just move down to that and press ENTER.
+Then this shows the GitHub website in this text format.
+
+Now I can still sign up and sign in.
+So if I go to "Sign in" here, that brings me to the sign-in page.
+So this is another example of a web client, but this one is purely command-line with no
+graphics.
+
+Now that we've seen different methods of accessing URLs from the command line, let's have a look
+at the JavaScript Object Notation, or JSON format, which
+allows us to retrieve and manipulate structured data.
+
+
+
+
+
+Welcome Alex Gordon,
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
